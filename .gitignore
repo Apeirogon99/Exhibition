@@ -3,7 +3,7 @@
 
 ### Local Folder ###
 # local
-Local/*
+Content/Local/*
 
 ### UnrealEngine ###
 # Visual Studio 2015 user specific files
